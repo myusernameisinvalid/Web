@@ -1,0 +1,15 @@
+html:
+aláhúzott: <u></u>
+félkövér: <b></b>
+dőlt: <i></i>
+táblázat fejléc: <thead>
+táblázat cellaösszevonás: colspan,rowspan
+
+css:
+belső margó: padding
+külső margó: margin
+dőlt betűk: font-style: italic
+kiskapitális: font-variant: small-caps
+felsorolás képe: list-style-image: url("../img/asd.png")
+sorkizárt: text-align: justify
+2-szer nagyobb mint az alapértelmezett betűméret: font-size: 2em
